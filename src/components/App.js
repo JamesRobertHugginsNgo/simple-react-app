@@ -1,0 +1,9 @@
+import React from 'react';
+
+import Hello from './Hello';
+
+function App() {
+	return (<Hello>Universe</Hello>);
+}
+
+export default App;
