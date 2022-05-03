@@ -1,4 +1,5 @@
 import React from 'react';
+import SimpleReactLibrary from 'simple-react-library';
 
 import Hello from './Hello';
 import Style from './Style';
@@ -12,6 +13,7 @@ function App() {
 			<Style />
 			<Image />
 			<InlineImage />
+			<SimpleReactLibrary />
 		</>
 	);
 }
