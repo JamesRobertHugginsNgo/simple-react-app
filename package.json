@@ -1,6 +1,6 @@
 {
   "name": "simple-react-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "private": true,
   "scripts": {
@@ -39,6 +39,7 @@
     "webpack-cli": "^4.9.2"
   },
   "dependencies": {
+    "package-lock-only": "^0.0.4",
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
